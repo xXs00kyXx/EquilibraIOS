@@ -1,0 +1,124 @@
+/* 
+  FR.strings
+  Equilibra
+
+  Created by Steeve Chopart on 2/27/14.
+  Copyright (c) 2014 Equilibra. All rights reserved.
+*/
+
+/* MENU */
+
+"MenuHome" = "Accueil";
+"MenuConnection" = "Se connecter";
+"MenuRegister" = "S'inscrire";
+"MenuAccount" = "Mon compte";
+"MenuMyProfile" = "Mon profil";
+"MenuMyFollows" = "Mes suivis";
+"MenuMyPlannings" = "Mes plannings";
+"MenuMyMessages" = "Mes messages";
+"MenuMyFriends" = "Mes amis";
+"MenuMyFavorites" = "Mes favoris";
+"MenuLogout" = "Se déconnecter";
+"MenuArticles" = "Articles";
+"MenuNutrition" = "Nutrition";
+"MenuSport" = "Sport";
+"MenuWeight" = "Poids";
+"MenuRecipes" = "Recettes";
+"MenuTools" = "Outils";
+"MenuSportPartner" = "Partenaire sportif";
+"MenuBMI" = "Calculer son IMC";
+"MenuBodyFat" = "Calculer son IMG";
+"MenuForum" = "Forum";
+"MenuSettings" = "Paramètres";
+
+/* CONNECTION */
+
+"ConnectionViewTitle" = "Connexion";
+"ConnectionUsernameLabel" = "Pseudo";
+"ConnectionPasswordLabel" = "Mot de passe";
+"ConnectionRememberMeLabel" = "Se souvenir de moi";
+"ConnectionConnectButtonLabel" = "Connexion";
+"ConnectionFacebookButtonLabel" = "Connexion Facebook";
+"ConnectionTwitterButtonLabel" = "Connexion Twitter";
+"ConnectionGoogleButtonLabel" = "Connexion Google";
+"ConnectionRegisterButtonLabel" = "S'inscrire";
+"ConnectionForgotPasswordButtonLabel" = "Mot de passe oublié ?";
+
+/* REGISTER */
+
+"RegisterViewTitle" = "Inscription";
+"RegisterPseudoLabel" = "Pseudo*";
+"RegisterEmailLabel" = "Email*";
+"RegisterPasswordLabel" = "Mot de passe*";
+"RegisterConfirmPasswordLabel" = "Confirmation du mot de passe*";
+"RegisterSubmitButtonLabel" = "Suivant";
+"RegisterRequiredFieldsLabel" = "(*) Champs obligatoires";
+"RegisterFirstNameLabel" = "Prénom";
+"RegisterLastNameLabel" = "Nom";
+"RegisterDateOfBirthLabel" = "Date de naissance (aaaa-mm-jj)";
+"RegisterGenderLabel" = "Genre";
+"RegisterGenderLeftLabel" = "Homme";
+"RegisterGenderRightLabel" = "Femme";
+"RegisterWeightLabel" = "Poids (kg)";
+"RegisterHeightLabel" = "Taille (cm)";
+"RegisterZipCodeLabel" = "Code postal";
+"RegisterGoalLabel" = "Quel est ton objectif ?";
+"RegisterNewsletterLabel" = "Je m'inscris à la newsletter";
+"RegisterTermsOfUseLabel" = "J'ai lu et accepté les conditions d'utilisation";
+"RegisterRegisterButtonLabel" = "Inscription";
+
+/* ACCOUNT */
+
+"AccountViewTitle" = "Mon Compte";
+"AccountMyProfileButtonLabel" = "Mon profil";
+"AccountMyFollowsButtonLabel" = "Mes suivis";
+"AccountMyPlanningsButtonLabel" = "Mes plannings";
+"AccountMyMessagesButtonLabel" = "Mes messages";
+"AccountMyFriendsButtonLabel" = "Mes amis";
+"AccountMyFavoritesButtonLabel" = "Mes favoris";
+"AccountLogoutButtonLabel" = "Déconnexion";
+
+/* PROFILE */
+
+"ProfileViewTitle" = "Mon Profil";
+
+/* FOLLOWS */
+
+"FollowsViewTitle" = "Mes Suivis";
+
+/* PLANNINGS */
+
+"PlanningsViewTitle" = "Mes Plannings";
+
+/* MESSAGES */
+
+"MessagesViewTitle" = "Mes Messages";
+
+/* FRIENDS */
+
+"FriendsViewTitle" = "Mes Amis";
+
+/* FAVORITES */
+
+"FavoritesViewTitle" = "Mes Favoris";
+
+/* ARTICLES */
+
+"ArticlesViewTitle" = "Articles";
+
+/* RECIPES */
+
+"RecipesViewTitle" = "Recettes";
+
+/* TOOLS */
+
+"ToolsViewTitle" = "Outils";
+
+/* FORUM */
+
+"ForumViewTitle" = "Forum";
+
+/* SETTINGS */
+
+"SettingsViewTitle" = "Paramètres";
+
